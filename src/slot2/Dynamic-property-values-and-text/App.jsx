@@ -1,8 +1,8 @@
-
 const enable = false
 const text = "My Button"
 const size = 50
 const placeholder = "Please enter text here"
+
 const App =()=>{
     return(
         <section>

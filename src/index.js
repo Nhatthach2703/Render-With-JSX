@@ -2,7 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 // import App from './slot2/UIStructure/App';
-import App from './slot2/Dynamic-property-values-and-text/App';
+// import App from './slot2/Dynamic-property-values-and-text/App';
+import App from './slot2/Mapping-collections-to-elements/App';
 import MyComponent from './slot2/create-jsx-elements/MyComponent'; 
 import reportWebVitals from './reportWebVitals';
 import MySection from './slot2/create-jsx-elements/MySection';
@@ -23,6 +24,8 @@ root.render(
       <MyComponent.First />
       <MyComponent.Second />
     </MyComponent> */}
+
+    {/* <App /> */}
 
     <App />
 
